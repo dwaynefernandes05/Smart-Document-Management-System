@@ -68,7 +68,7 @@ ollama pull llama3:8b
 
 #OR
 
-ollama pull mistra:7b
+ollama pull mistral:7b
 ```
 
 ---
