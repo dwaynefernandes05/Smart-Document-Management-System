@@ -20,7 +20,7 @@ A Streamlit-based AI-powered application that allows users to upload documents (
 ## 🛠️ Tech Stack
 
 - **Frontend**: [Streamlit](https://streamlit.io/)
-- **LLM**: [Ollama](https://ollama.ai/) with `llama3:8b` model
+- **LLM**: [Ollama](https://ollama.ai/) with `llama3:8b`  or `mistral:7b` model
 - **Embeddings**: Hugging Face `sentence-transformers/all-MiniLM-L6-v2`
 - **Vector Store**: FAISS
 - **Document Parsing**: LangChain document loaders (PDF, TXT, MD, XLSX)
